@@ -1,3 +1,0 @@
-[submodule "Packages/my-package"]
-	path = Packages/my-package
-	url = https://github.com/RainXC/my-package.git
