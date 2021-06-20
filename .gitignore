@@ -3,6 +3,8 @@
 /public/storage
 /storage/*.key
 /vendor
+!/vendor/RainXC/
+!/vendor/RainXC/my-package
 .env
 .env.backup
 .phpunit.result.cache
